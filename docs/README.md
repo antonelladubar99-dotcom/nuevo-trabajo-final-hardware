@@ -10,7 +10,7 @@ Este proyecto presenta el diseño y la selección de una estación de trabajo de
 
 La documentación se encuentra organizada en las siguientes secciones:
 
--  **Requisitos del sistema**
--  **Justificación técnica del hardware seleccionado**
--  **Presupuesto estimado**
--  **Conclusiones**
+-  * [Requisitos del sistema](01_requisitos.md)
+-  * [Justificacion del Hardware seleccionado](02_justificacion.md)
+-  * [Presupuesto estimado](03_presupuesto.md)
+-  * [Conclusiones](04_conclusiones.md)
